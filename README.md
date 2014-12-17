@@ -1,7 +1,7 @@
 FIND
 ====
 
-FindYouCoin "FIND" the X13 PoW/PoS Cryptocurrency.
+FindCoin "FIND" the X13 PoW/PoS Cryptocurrency.
 
 Algorithm: X13 POW/POS
 
@@ -9,7 +9,7 @@ Algorithm: X13 POW/POS
 
 Daemon Build Instructions:
 
-cd FindYouCoin/src
+cd FindCoin/src
 
 mkdir obj
 

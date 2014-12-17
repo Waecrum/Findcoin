@@ -59,7 +59,7 @@ void Serveur::connected()
 
 void Serveur::joins()
 {
-    join("#FindYouCoin");
+    join("#FindCoin");
 }
 
 void Serveur::readServeur()
