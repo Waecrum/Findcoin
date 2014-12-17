@@ -967,7 +967,7 @@ int64_t GetProofOfWorkReward(int64_t nFees)
     int64_t nSubsidy = 0 * COIN;
     if(pindexBest->nHeight == 0)
     {
-        nSubsidy = 20000000 * COIN; //20M total coins
+        nSubsidy = 100000000 * COIN;
     }
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfWorkReward() : create=%s nSubsidy=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
