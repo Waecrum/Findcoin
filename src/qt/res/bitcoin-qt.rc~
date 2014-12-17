@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/FindCoin.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/FindYouCoin.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "FindCoin"
-            VALUE "FileDescription",    "FindCoin-Qt (OSS GUI client for FindCoin)"
+            VALUE "CompanyName",        "FindYouCoin"
+            VALUE "FileDescription",    "FindYouCoin-Qt (OSS GUI client for FindYouCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "FindCoin-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2014 The FindCoin developers"
+            VALUE "InternalName",       "FindYouCoin-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2014 The FindYouCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "FindCoin-qt.exe"
-            VALUE "ProductName",        "FindCoin-Qt"
+            VALUE "OriginalFilename",   "FindYouCoin-qt.exe"
+            VALUE "ProductName",        "FindYouCoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
