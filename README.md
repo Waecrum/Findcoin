@@ -1,6 +1,6 @@
 Findcoin
 ========
-------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------
 We are all fed up with scammers. We want to see their faces, and some of them behind bars. Let's put a bounty dedicated to those who are willing to conduct an investigation.
 
 Findcoin was created with a sole purpose to raise such a bounty as a reward for the deanonymization of certain "developers". We don't care if this coin gains zero value or even hits an exchange at all, but instead our intention are to create a symbol, a banner for everyone in the community that want those people to be found and brought to legally applicable justice.
@@ -16,7 +16,8 @@ We've been here long enough. We know how most fundraisers turn out. You pay some
 
 We invite everyone to participate in this initiative, update research and explore every possible bit of information about these scam-coins and their developers.
 Submit coin names with links on scam threads and we will keep track of it. We will also try to sort out all of information about the progress. Let's do it together. Every bit counts, tell us how many coins scammed, what you know about the developer, post links and post evidence. Be active and eventually we will find these horrible people.
-------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------
 
 
 
@@ -32,8 +33,8 @@ Initial coin supply:
 
 Distribution period: ~21 days (40M coins per hour)
 POS annual interest: ?%
-------------------------------------------------------------------------------------------------------------------------------------------------
 
+------------------------------------------------------------
 
 Daemon Build Instructions:
 
